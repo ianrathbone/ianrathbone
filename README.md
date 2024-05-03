@@ -1,8 +1,8 @@
 [![@ianrathbone's Holopin board](https://holopin.me/ianrathbone)](https://holopin.io/@ianrathbone)
 
 - 👋 Hi, I’m @ianrathbone
-- 👀 I’m interested in finding projects to contribute to, and expand our open source software at 4Com ([we've made a start](https://github.com/4Com/vue-azure-app-configuration))
-- 🌱 I’m currently thinking about my 2023 objectives, got a lot of ideas!
+- 👀 I’m interested in starting a new project, I've got some ideas and I'll let you know how it goes!
+- 🌱 I’m currently building and supporting our Engineering team at ([Talk Think Do](https://talkthinkdo.com/about-us/))
 - 💞️ I’m looking to collaborate on any open source projects where I can be useful
 - 📫 How to reach me? Via my email ian@rathbone.dev
 
