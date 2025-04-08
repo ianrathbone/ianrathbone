@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @ianrathbone
 - 👀 I’m interested in starting a new project, I've got some ideas and I'll let you know how it goes!
-- 🌱 I’m currently in build mode for our products at [Serene](https://github.com/Serene-Engineering)
+- 🌱 I’m currently in build mode for our products as CTO at [Serene](https://github.com/Serene-Engineering)
 - 💞️ I’m still looking to collaborate on any open source projects where I can be useful
 - 📫 How to reach me? Via my email ian@rathbone.dev
 
